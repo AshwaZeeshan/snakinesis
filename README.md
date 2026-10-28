@@ -54,7 +54,8 @@ High scores are stored separately for Boundaryless and Classic Walls mode in `sn
 The About pane shows the current version and project authors:
 
 - [Muhammad Umar Nadeem](https://github.com/umrndem)
-- [Shifa Zeeshan](https://github.com/AshwaZeeshan)
+- [Shifa Zeeshan](https://github.com/AshwaZeeshan) 
+- [Mahnoor Khan](https://github.com/mahnoorkhn)
 
 ### Sound Effects
 
